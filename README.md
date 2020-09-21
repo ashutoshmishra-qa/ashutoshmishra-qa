@@ -1,10 +1,22 @@
 ### Welcome to my Profile
-
-- I'am currently working in a FinTech Company.
-- Presently I am based in India.
-- I am learning Cypress currently.
+- From past 6 years working closely with business experts and programmers to translate requirements into testable user scenarios and test cases
+- Bachelor of Engineer
+- Currently working in a FinTech Company.
+- ISTQB CTFL and AWS Foundation Level Certified
+- Presently based in a beautiful city of India - Chandigarh.
+- Learning Cypress currently.
 - Check my linkedin here - https://www.linkedin.com/in/ashutoshmishra-qa/
-- I am looking for jobs which can offer me work visa in EU.
+- Seeking job opportunities which can offer me work visa in EU.
 - You can reach me at ashutoshmishra.qa@gmail.com
-- I love to travel, cycle around the city,trek and hike.
-- I travelled 150kms on foot through treacherous paths in Himalayas with a friend, which was my most adventurous trip so far.
+- Love to travel, cycle around the city,trek and hike.
+- Once, I travelled 150kms on foot through treacherous paths in Himalayas with a friend, which was my most adventurous trip so far.
+
+### Glance at my exposure so far in Software Industry:
+Domains - Telecom, Medical, Multi -Tier Applications running on Cloud infra and Fintech 
+DB - PostgresSQL , MongoDB, MySQL  
+IDE - VS Code, Eclipse, VS 2019
+API - GraphQL and Rest
+API Testing Tools - Postman, Swagger
+Test Management - Jira, Zephyr, HP ALM, Test Rail
+Other Tools used - Fullstory, Kibana
+Devops - Jenkins, Kubernetes and Docker - Basics and setting up images on local.
