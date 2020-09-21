@@ -1,5 +1,5 @@
 ### Welcome to my Profile
-- From past 6 years working closely with business experts and programmers to translate requirements into testable user scenarios and test cases
+I have been working from past six years with business experts to translate requirements into testable user scenarios and be dedicated to shipping quality products.
 - Bachelor of Engineer
 - Currently working in a FinTech Company.
 - ISTQB CTFL and AWS Foundation Level Certified
