@@ -12,11 +12,11 @@
 - Once, I travelled 150kms on foot through treacherous paths in Himalayas with a friend, which was my most adventurous trip so far.
 
 ### Glance at my exposure so far in Software Industry:
-> Domains - Telecom, Medical, Multi -Tier Applications running on Cloud infra and Fintech 
-> DB - PostgresSQL , MongoDB, MySQL  
-> IDE - VS Code, Eclipse, VS 2019
-> API - GraphQL and Rest
-> API Testing Tools - Postman, Swagger
-> Test Management - Jira, Zephyr, HP ALM, Test Rail
-> Other Tools used - Fullstory, Kibana
-> Devops - Jenkins, Kubernetes and Docker - Basics and setting up images on local.
+* Domains - Telecom, Medical, Multi -Tier Applications running on Cloud infra and Fintech 
+* DB - PostgresSQL , MongoDB, MySQL  
+* IDE - VS Code, Eclipse, VS 2019
+* API - GraphQL and Rest
+* API Testing Tools - Postman, Swagger
+* Test Management - Jira, Zephyr, HP ALM, Test Rail
+* Other Tools used - Fullstory, Kibana
+* Devops - Jenkins, Kubernetes and Docker - Basics and setting up images on local.
