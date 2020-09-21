@@ -1,6 +1,6 @@
 ### Welcome to my Profile
 I have been working from past six years with business experts to translate requirements into testable user scenarios and be dedicated to shipping quality products.
-- Bachelor of Engineer
+- Bachelor of Engineering
 - Currently working in a FinTech Company.
 - ISTQB CTFL and AWS Foundation Level Certified
 - Presently based in a beautiful city of India - Chandigarh.
